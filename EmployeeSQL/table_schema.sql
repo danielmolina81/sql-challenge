@@ -1,9 +1,4 @@
-DROP TABLE IF EXISTS dept_manager;
-DROP TABLE IF EXISTS dept_emp;
-DROP TABLE IF EXISTS salaries;
-DROP TABLE IF EXISTS employees;
-DROP TABLE IF EXISTS departments;
-DROP TABLE IF EXISTS titles;
+-- Table Schema
 
 CREATE TABLE titles(
 	title_id VARCHAR(5),
