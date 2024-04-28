@@ -23,25 +23,33 @@ Use the provided information to create a table schema for each of the six CSV fi
 ## Data Analysis
 
 - List the employee number, last name, first name, sex, and salary of each employee.
+
 ![](EmployeeSQL/pics/1.png)
 
 - List the first name, last name, and hire date for the employees who were hired in 1986.
+
 ![](EmployeeSQL/pics/2.png)
 
 - List the manager of each department along with their department number, department name, employee number, last name, and first name.
+
 ![](EmployeeSQL/pics/3.png)
 
 - List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
+
 ![](EmployeeSQL/pics/4.png)
 
 - List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
+
 ![](EmployeeSQL/pics/5.png)
 
 - List each employee in the Sales department, including their employee number, last name, and first name.
+
 ![](EmployeeSQL/pics/6.png)
 
 - List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
+
 ![](EmployeeSQL/pics/7.png)
 
 - List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+
 ![](EmployeeSQL/pics/8.png)
