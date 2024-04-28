@@ -1,4 +1,4 @@
--- Table Schema
+-- TABLE SCHEMA
 
 CREATE TABLE titles(
 	title_id VARCHAR(5),
